@@ -1,0 +1,13 @@
+.body {
+    font-family: 'Inter', sans-serif;
+}
+.navbar
+{
+	min-height: 3px;
+	min-width: 100%;
+	
+}
+.labZ-navbar
+{
+    background-color: #26b970 !important;
+}
